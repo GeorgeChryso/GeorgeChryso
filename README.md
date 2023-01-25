@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey all
+
+##### My name is George and I'm a code enthusiast passionate for anything that involves inventing solutions. Data Structures and algorithms are also among my interests and that's why within my repos you will find several implementations and the problems they solve.
 
 <!--
 **GeorgeChryso/GeorgeChryso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
